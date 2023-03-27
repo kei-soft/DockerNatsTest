@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppNatsSerer", "WebAppNatsSerer\WebAppNatsSerer.csproj", "{5FC10AD8-4794-4DAD-A721-FC4F2DFA0E54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppNatsWorker", "ConsoleAppNatsWorker\ConsoleAppNatsWorker.csproj", "{FE420C95-35AA-4F38-A07E-60290C519582}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FC10AD8-4794-4DAD-A721-FC4F2DFA0E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC10AD8-4794-4DAD-A721-FC4F2DFA0E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC10AD8-4794-4DAD-A721-FC4F2DFA0E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC10AD8-4794-4DAD-A721-FC4F2DFA0E54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE420C95-35AA-4F38-A07E-60290C519582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE420C95-35AA-4F38-A07E-60290C519582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE420C95-35AA-4F38-A07E-60290C519582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE420C95-35AA-4F38-A07E-60290C519582}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D7683D6-87AB-4042-9274-703AC8E21BF1}
+	EndGlobalSection
+EndGlobal
